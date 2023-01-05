@@ -40,7 +40,10 @@ nav {
   margin: 0px 200px;
   justify-content: space-between;
 }
-
+.image-main{
+  position: relative;
+  left: 270px;
+}
 .ti1 {
   font-weight: 600;
   font-size: 45px;
